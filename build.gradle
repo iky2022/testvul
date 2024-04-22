@@ -135,7 +135,7 @@ dependencies {
     implementation 'com.nimbusds:lang-tag:1.5'
 
     // https://mvnrepository.com/artifact/org.glassfish/jakarta.el
-    implementation 'org.glassfish:jakarta.el:4.0.1'
+    implementation 'org.glassfish:jakarta.el:4.0.2'
 
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
