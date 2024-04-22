@@ -132,7 +132,7 @@ dependencies {
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.6.1'
 
     // https://mvnrepository.com/artifact/com.nimbusds/lang-tag
-    implementation 'com.nimbusds:lang-tag:1.5'
+    implementation 'com.nimbusds:lang-tag:1.7'
 
     // https://mvnrepository.com/artifact/org.glassfish/jakarta.el
     implementation 'org.glassfish:jakarta.el:4.0.1'
