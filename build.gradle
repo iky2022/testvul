@@ -117,7 +117,7 @@ dependencies {
     implementation 'org.apache.poi:poi:4.1.2'
     implementation 'org.apache.poi:poi-ooxml:4.1.2'
     implementation 'org.apache.poi:poi-ooxml-schemas:4.1.2'
-    implementation 'org.apache.xmlbeans:xmlbeans:3.1.0'
+    implementation 'org.apache.xmlbeans:xmlbeans:5.2.1'
     implementation 'org.apache.pdfbox:xmpbox:2.0.26'
     implementation 'org.apache.pdfbox:pdfbox:2.0.31'
 
