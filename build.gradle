@@ -129,7 +129,7 @@ dependencies {
     implementation 'org.apache.tomcat:tomcat-annotations-api:9.0.65'
 
     implementation 'org.apache.commons:commons-compress:1.21'
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.6.1'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.2'
 
     // https://mvnrepository.com/artifact/com.nimbusds/lang-tag
     implementation 'com.nimbusds:lang-tag:1.5'
