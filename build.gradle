@@ -128,7 +128,7 @@ dependencies {
     implementation 'org.apache.tomcat.embed:tomcat-embed-websocket:9.0.65'
     implementation 'org.apache.tomcat:tomcat-annotations-api:9.0.65'
 
-    implementation 'org.apache.commons:commons-compress:1.21'
+    implementation 'org.apache.commons:commons-compress:1.27.1'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.6.1'
 
     // https://mvnrepository.com/artifact/com.nimbusds/lang-tag
