@@ -9,7 +9,7 @@
 plugins {
     // Apply the java-library plugin to add support for Java Library
     id 'java-library'
-    id 'org.springframework.boot' version '2.5.14'
+    id 'org.springframework.boot' version '3.3.5'
     id 'java'        
     id "io.spring.dependency-management" version "1.0.11.RELEASE"
     id 'com.palantir.git-version' version '0.12.3' // to get git-hash in manifest
